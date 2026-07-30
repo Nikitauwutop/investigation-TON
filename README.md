@@ -2,8 +2,6 @@
   INVESTIGATION AGAINST INDIVIDUALS ASSOCIATED WITH THE TON FOUNDATION, Telegram’s main crypto asset GRAM (formerly TON).
 I am conducting an open investigation into the TON FOUNDATION. Numerous violations and instances of fraud have been observed on their part.
 
-To make it easier for you to do your own research, I'll provide you with information about the company and more:
-
 ## 📝 KEY FINANCIAL INFORMATION
 To make it easier for you to do your own research, I'll provide you with information about the company and more:
 
