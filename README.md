@@ -1,0 +1,2 @@
+# investigation-TON
+  INVESTIGATION AGAINST INDIVIDUALS ASSOCIATED WITH THE TON FOUNDATION, Telegram’s main crypto asset GRAM (formerly TON).
