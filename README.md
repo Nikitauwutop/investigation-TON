@@ -25,7 +25,7 @@ To make it easier for you to do your own research, I'll provide you with informa
 
  _[Steve Yuna](https://web.archive.org/web/20241231003316/https://ton.foundation/en)_ was the first president of the foundation. On 15 January 2025, he was replaced by _[Manuel Stotz](https://web.archive.org/web/20250118143533/https://ton.foundation/en)_ to help the organisation enter the US market; six months later, on 20 August 2025, _[Max Crown](https://web.archive.org/web/20250828021637/https://ton.foundation/en)_ took over as president (source: web.archive).
 
-## 💼 CASE I: A DONATION FROM THE _COMMUNITY_
+## 💼 CASE I: A DONATION FROM THE "_COMMUNITY_"
 
 On 7 April 2022, the TON Foundation established _[established](https://t.me/tonblockchain/116)_ an ecosystem reserve managed via a 3-of-5 multi-signature arrangement, which was reportedly intended for:
 
