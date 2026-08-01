@@ -107,3 +107,20 @@ It was not registered until **3 May 2023**, more than a year after the reserve w
 ``the TON Foundation has not specified which of the promised integrations, community growth programmes or partnerships were funded using these funds.``
 
 ## 💼 CASE II: INVESTOR DISSATISFACTION, NASDAQ ISSUES
+
+Previously, according to Nasdaq documentation, the company's name was - **VERB TECHNOLOGY COMPANY, INC.**  reports under this title 
+***_[December 31, 2023](https://www.sec.gov/Archives/edgar/data/1566610/000149315224012416/form10-k.htm)_*** ,
+***_[December 31, 2024](https://www.sec.gov/Archives/edgar/data/1566610/000164117225000518/form10-k.htm#sk_004)_*** 
+
+I want to highlight this document because it reflects a change in the company's name
+***_[August 29, 2025](https://www.sec.gov/Archives/edgar/data/1566610/000149315225012461/form8-k.htm)_***  - <img width="1880" height="222" alt="image" src="https://github.com/user-attachments/assets/0e7bb0f0-4ffe-40f1-a66d-f52a2c42cf31" />
+
+
+
+Before the company was renamed, there were no obvious red flags in its NASDAQ filings regarding problems with investors or significant losses (compared to profits); in fact, the company was even able to boast that its metrics were growing strongly.
+
+***Let's get back to reality now.***
+
+Financial Statements as of ***_[March 31, 2026](https://www.sec.gov/Archives/edgar/data/1566610/000149315226022422/form10-q.htm#m_007)_*** . Let’s start with the fact that revenue grew **(from 1.3 million to 5.3 million)**, and gross profit increased significantly **(margin ~75%)**. However, operating expenses rose sharply, causing the operating loss to increase. Most importantly, the “other income/expenses” line item turned into a massive loss **(about −87 million)**, which is why the final net loss was enormous **(approximately −91 million)**.
+
+``The company warns in advance that Toncoin is less liquid than cash or cash equivalents. At the same time, a significant portion of TON is designated as “restricted”—meaning that its availability and liquidity are limited under “normal” circumstances. For this use case, this means that actual financial stability in a stress scenario may turn out to be worse than it appears with simple cash.``
