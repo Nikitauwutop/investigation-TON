@@ -121,6 +121,53 @@ Before the company was renamed, there were no obvious red flags in its NASDAQ fi
 
 ***Let's get back to reality now.***
 
-Financial Statements as of ***_[March 31, 2026](https://www.sec.gov/Archives/edgar/data/1566610/000149315226022422/form10-q.htm#m_007)_*** . Let’s start with the fact that revenue grew **(from 1.3 million to 5.3 million)**, and gross profit increased significantly **(margin ~75%)**. However, operating expenses rose sharply, causing the operating loss to increase. Most importantly, the “other income/expenses” line item turned into a massive loss **(about −87 million)**, which is why the final net loss was enormous **(approximately −91 million)**.
+Document: ***_[SEC Form 10-Q](https://www.sec.gov/Archives/edgar/data/1566610/000149315226022422/form10-q.htm#m_007)_***
 
-``The company warns in advance that Toncoin is less liquid than cash or cash equivalents. At the same time, a significant portion of TON is designated as “restricted”—meaning that its availability and liquidity are limited under “normal” circumstances. For this use case, this means that actual financial stability in a stress scenario may turn out to be worse than it appears with simple cash.``
+Period: **March 31, 2026** 
+
+Issuer/Company: **TON STRATEGY COMPANY**
+
+Source: **EDGAR (SEC)**
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Financial Statements as of March 31, 2026 . Let’s start with the fact that revenue grew **(from 1.3 million to 5.3 million)**, and gross profit increased significantly **(margin ~75%)**. However, operating expenses rose sharply, causing the operating loss to increase. Most importantly, the “other income/expenses” line item turned into a massive loss **(about −87 million)**, which is why the final net loss was enormous **(approximately −91 million)**.
+
+
+
+***How does their strategy work?***
+
+In its 10-Q, the company describes its strategy regarding its digital asset currency treasury: the company acquires Toncoin (TON) and explicitly states that its financial results and financial position depend on TON/Toncoin. Additionally, the company discloses that Toncoin is less liquid (compared to cash and cash equivalents) and that results may depend on the price of Toncoin, as well as on related factors (regulatory issues, cyber risks, etc., as listed in the document).
+
+
+***Governance seems problematic***
+
+The company itself has disclosed several significant corporate developments.
+
+In January 2026, CEO Veronika Kapustina began the process of stepping down from her position.
+In February, the board of directors fired another CEO—Rory Cutaia.
+In April, the company appointed a new CEO, Kevin Wilson (remember this name).
+
+At the same time, the company disclosed that some equity awards were issued in excess of the number of shares available under the incentive plan, and that some equity awards may have been issued without registration or a valid exemption.
+
+The company itself states that such actions may have violated federal and certain state securities laws.
+
+Furthermore, on March 27, the company notified Nasdaq of a possible violation of Nasdaq Listing Rule 5635(c).
+<img width="1398" height="362" alt="image" src="https://github.com/user-attachments/assets/29d3eaac-9b46-4fae-afc6-e8e6acc85488" />
+
+
+
+***STAFF CHANGES TO EASE THE PRESSURE***
+
+*Shareholders’ lawsuit (**Nevada, filed on 2 April 2026**)*
+
+The shareholders have brought a lawsuit against the current and former directors of TONX (and against the company as a defendant/nominal defendant). ``They allege breaches of fiduciary duties``, ``misappropriation of corporate funds`` and ``unjust enrichment in connection with the restructuring`` in August 2025.
+The company is currently unable to estimate the potential losses or the range of damages in the case.
+
+*Cancellation of large RSU grants*
+
+On 28 April, the company cancelled 1,020,823 previously granted RSUs (restricted shares) for several executives and members of the board of directors. As a result, the remaining amount of compensation under these grants will be recognised in full as an expense in the second quarter of 2026.
+
+Max Crown, who had previously been referred to as CEO of TON Foundation, had previously held the position of CEO of TON Strategy. Two weeks later, following the filing of a legal claim, a new CEO – Kevin Wilson – was appointed (his appointment takes effect on 4 May 2026).
+<img width="1403" height="438" alt="image" src="https://github.com/user-attachments/assets/ec3910cd-5d9e-4d36-b8ca-2c92f85b4d5f" />
+
