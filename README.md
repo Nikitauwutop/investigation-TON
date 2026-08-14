@@ -23,6 +23,8 @@ To make it easier for you to do your own research, I'll provide you with informa
 
 **TON FOUNDATION** - The foundation was established in 2023 in Switzerland. It is a non-profit organisation and is funded entirely by donations from the community (PLEASE TAKE THIS FACT INTO ACCOUNT, AS IT WILL PLAY A ROLE LATER) and also acts in the interests of the network. Essentially, the foundation is what will drive the blockchain and the community forward together.
 
+**TONX(Ton Strategy Company)** - This is TON’s strategic communications (a structured approach to how the TON network and associated projects formulate and communicate their objectives, development model and values to their audience). Created by the TON Foundation
+
  _[Steve Yuna](https://web.archive.org/web/20241231003316/https://ton.foundation/en)_ was the first president of the foundation. On 15 January 2025, he was replaced by _[Manuel Stotz](https://web.archive.org/web/20250118143533/https://ton.foundation/en)_ to help the organisation enter the US market; six months later, on 20 August 2025, _[Max Crown](https://web.archive.org/web/20250828021637/https://ton.foundation/en)_ took over as president (source: web.archive).
 
 ## 💼 CASE I: A DONATION FROM THE "_COMMUNITY_"
